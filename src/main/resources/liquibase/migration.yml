@@ -1,0 +1,9 @@
+databaseChangeLog:
+   - include:
+      file: classpath:liquibase/migration/2019-10-4-init.sql
+   - include:
+      file: classpath:liquibase/migration/2019-10-5-add_data.sql
+
+
+
+
